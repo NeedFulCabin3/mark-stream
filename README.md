@@ -63,4 +63,4 @@ mark-stream/
 
 [ ] Add dark theme support using CSS custom properties.
 
-```text "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra```
+```"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra```
